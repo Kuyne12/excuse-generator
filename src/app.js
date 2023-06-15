@@ -16,7 +16,7 @@ let generateExcuse = () => {
   let subject = ["Lion", "Sister", "Girlfriend"];
   let action = ["smashed", "ran over", "bit"];
   let possession = ["my foot", "her homework", "his food"];
-
+  hh;
   let pronounIndex = Math.floor(Math.random() * pronoun.length);
   let subjectIndex = Math.floor(Math.random() * subject.length);
   let actionIndex = Math.floor(Math.random() * action.length);
